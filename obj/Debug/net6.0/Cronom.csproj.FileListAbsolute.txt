@@ -1,0 +1,15 @@
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.csproj.AssemblyReference.cache
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.AssemblyInfoInputs.cache
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.AssemblyInfo.cs
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.csproj.CoreCompileInputs.cache
+C:\Users\Talento X Esforço\Projeto_Cronometro\bin\Debug\net6.0\Cronom.exe
+C:\Users\Talento X Esforço\Projeto_Cronometro\bin\Debug\net6.0\Cronom.deps.json
+C:\Users\Talento X Esforço\Projeto_Cronometro\bin\Debug\net6.0\Cronom.runtimeconfig.json
+C:\Users\Talento X Esforço\Projeto_Cronometro\bin\Debug\net6.0\Cronom.dll
+C:\Users\Talento X Esforço\Projeto_Cronometro\bin\Debug\net6.0\Cronom.pdb
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.dll
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\refint\Cronom.dll
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.pdb
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.genruntimeconfig.cache
+C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\ref\Cronom.dll
