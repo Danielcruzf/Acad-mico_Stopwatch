@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Talento X Esforço\\.nuget\\packages\\": {}
+    "C:\\Users\\CARMEL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Talento X Esforço\\Projeto_Cronometro\\Cronom.csproj",
+      "projectUniqueName": "C:\\projetos\\Acad-mico_Stopwatch\\Cronom.csproj",
       "projectName": "Cronom",
-      "projectPath": "C:\\Users\\Talento X Esforço\\Projeto_Cronometro\\Cronom.csproj",
-      "packagesPath": "C:\\Users\\Talento X Esforço\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Talento X Esforço\\Projeto_Cronometro\\obj\\",
+      "projectPath": "C:\\projetos\\Acad-mico_Stopwatch\\Cronom.csproj",
+      "packagesPath": "C:\\Users\\CARMEL\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\Acad-mico_Stopwatch\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Talento X Esforço\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\CARMEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

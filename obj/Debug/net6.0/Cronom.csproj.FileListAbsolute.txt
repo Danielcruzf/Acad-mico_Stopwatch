@@ -13,3 +13,18 @@ C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\refint\Cronom.dl
 C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.pdb
 C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\Cronom.genruntimeconfig.cache
 C:\Users\Talento X Esforço\Projeto_Cronometro\obj\Debug\net6.0\ref\Cronom.dll
+C:\projetos\Acad-mico_Stopwatch\bin\Debug\net6.0\Cronom.exe
+C:\projetos\Acad-mico_Stopwatch\bin\Debug\net6.0\Cronom.deps.json
+C:\projetos\Acad-mico_Stopwatch\bin\Debug\net6.0\Cronom.runtimeconfig.json
+C:\projetos\Acad-mico_Stopwatch\bin\Debug\net6.0\Cronom.dll
+C:\projetos\Acad-mico_Stopwatch\bin\Debug\net6.0\Cronom.pdb
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.csproj.AssemblyReference.cache
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.AssemblyInfoInputs.cache
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.AssemblyInfo.cs
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.csproj.CoreCompileInputs.cache
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.dll
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\refint\Cronom.dll
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.pdb
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\Cronom.genruntimeconfig.cache
+C:\projetos\Acad-mico_Stopwatch\obj\Debug\net6.0\ref\Cronom.dll
